@@ -1,7 +1,5 @@
 package com.lamarsan.netty.transport;
 
-import com.lamarsan.nio.Select;
-
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.net.ServerSocket;
